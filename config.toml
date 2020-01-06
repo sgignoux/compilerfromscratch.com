@@ -1,0 +1,4 @@
+baseURL = "http://compilerfromscratch.com/"
+languageCode = "en-us"
+title = "Building a compiler from scratch"
+theme = "basics"
